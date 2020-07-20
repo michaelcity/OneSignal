@@ -1,6 +1,6 @@
 ### OneSignal Golang API
 
-This API is used for sending Message via OneSignal service.
+This API is used for sending Message via OneSignal service. For more details, please go to https://onesignal.com/
 ___
 
 ### Install
